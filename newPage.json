@@ -1,0 +1,64 @@
+[
+    {
+        "_id": "651c2058a2668d18f941c60e",
+        "applicationId": "uieditor",
+        "slug": "home",
+        "Page": {
+            "name": "home",
+            "layouts": [
+                {
+                    "_id": "651c2058a2668d18f941c612",
+                    "viewMode": false,
+                    "dsl": {
+                        "widgetName": "MainContainer",
+                        "backgroundColor": "none",
+                        "rightColumn": 966,
+                        "snapColumns": 64,
+                        "detachFromLayout": true,
+                        "widgetId": "0",
+                        "topRow": 0,
+                        "bottomRow": 320,
+                        "containerStyle": "none",
+                        "snapRows": 125,
+                        "parentRowSpace": 1,
+                        "type": "CANVAS_WIDGET",
+                        "canExtend": true,
+                        "version": 57,
+                        "minHeight": 1292,
+                        "parentColumnSpace": 1,
+                        "dynamicBindingPathList": [],
+                        "leftColumn": 0,
+                        "children": [],
+                        "dynamicTriggerPathList": []
+                    },
+                    "widgetNames": [
+                        "MainContainer"
+                    ],
+                    "deleted": false,
+                    "layoutOnLoadActions": [
+                        []
+                    ],
+                    "layoutOnCloseActions": [
+                        []
+                    ],
+                    "policies": []
+                }
+            ]
+        },
+        "createdAt": "2023-10-03T14:08:24.193Z",
+        "updatedAt": "2023-10-03T14:08:24.193Z",
+        "deleted": false,
+        "policies": [
+            {
+                "permission": "read:pages",
+                "groups": [],
+                "users": []
+            },
+            {
+                "permission": "manage:pages",
+                "groups": [],
+                "users": []
+            }
+        ]
+    }
+]
